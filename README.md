@@ -1,6 +1,6 @@
 # recipe
 hi this is zou
-line 2 changed remotely
+line 2 changed remotely ### This is a LOCAL change :)
 
 
 
@@ -10,4 +10,4 @@ line 2 changed remotely
 
 
 
-last line changed locally
+last line changed locally ### This is a LOCAL change :)
